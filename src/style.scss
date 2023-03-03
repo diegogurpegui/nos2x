@@ -46,6 +46,12 @@ body {
   color: $color-text;
 }
 
+body {
+  margin: 0;
+  padding: 8px;
+  max-width: 100vw;
+}
+
 h2 {
   font-size: 1.5em;
 }
